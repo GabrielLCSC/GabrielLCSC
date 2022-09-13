@@ -1,5 +1,5 @@
 # Hi there 👋
-# I'm Gabriel Dautreppe
+## I'm Gabriel Dautreppe
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
