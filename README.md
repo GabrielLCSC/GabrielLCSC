@@ -5,5 +5,6 @@
 - 💚 Je me passionne également pour la musique et le sport.
 
 - 📫 Comment me joindre : gabriel.dautreppe@gmail.com
+                          https://www.linkedin.com/in/gabriel-dautreppe-iim/
 
 
