@@ -4,7 +4,8 @@
 - 🌱 Je suis actuellement en train d'apprendre la vie (et le code).
 - 💚 Je me passionne également pour la musique et le sport.
 
-- 📫 Comment me joindre : gabriel.dautreppe@gmail.com
-                          https://www.linkedin.com/in/gabriel-dautreppe-iim/
+## - 📫 Comment me joindre
+- 👔 LinkedIn : https://www.linkedin.com/in/gabriel-dautreppe-iim/
+- 🌐 Mail : gabriel.dautreppe@gmail.com
 
 
