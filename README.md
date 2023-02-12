@@ -9,4 +9,4 @@
 - 🌐 Mail : gabriel.dautreppe@gmail.com
 
 ## - :zap: Mes projets les plus récents
-- 📱 https://telephone-app.vercel.app/#/contact
+- 📱 https://telephone-app.vercel.app/#/
