@@ -7,6 +7,7 @@
 ## - 📫 Comment me joindre
 - 👔 LinkedIn : https://www.linkedin.com/in/gabriel-dautreppe-iim/
 - 🌐 Mail : gabriel.dautreppe@gmail.com
+- 🌐 Mail école : gabriel.dautreppe@edu.devinci.fr
 
 ## - :zap: Mes projets les plus récents
 - 🧑‍💻 https://farros-esport.vercel.app/ (desktop only - site vitrine uniquement)
