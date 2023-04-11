@@ -9,4 +9,9 @@
 - 🌐 Mail : gabriel.dautreppe@gmail.com
 
 ## - :zap: Mes projets les plus récents
-- 📱 https://telephone-app.vercel.app/#/clavier (mobile)
+- 🧑‍💻 https://farros-esport.vercel.app/ (desktop only - site vitrine uniquement)
+- 📱 https://telephone-app.vercel.app/#/clavier (mobile only)
+
+- Portfolios :
+- V1 💩 https://portfolio-iota-flax-41.vercel.app/
+- V2 🚧 https://portfolio-gabriel-dautreppe.vercel.app/ (mobile only - work in progress)
