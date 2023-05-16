@@ -10,6 +10,7 @@
 - 🌐 Mail école : gabriel.dautreppe@edu.devinci.fr
 
 ## - :zap: Mes projets les plus récents
+- 💚 https://parallax-effect-beryl.vercel.app/ (desktop only - in progress)
 - 🧑‍💻 https://farros-esport.vercel.app/ (desktop only - site vitrine uniquement)
 - 📱 https://telephone-app.vercel.app/#/clavier (mobile only)
 
