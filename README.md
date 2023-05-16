@@ -10,10 +10,10 @@
 - 🌐 Mail école : gabriel.dautreppe@edu.devinci.fr
 
 ## - :zap: Mes projets les plus récents
-- 💚 https://parallax-effect-beryl.vercel.app/ (desktop only - in progress)
-- 🧑‍💻 https://farros-esport.vercel.app/ (desktop only - site vitrine uniquement)
-- 📱 https://telephone-app.vercel.app/#/clavier (mobile only)
+- 💚 https://parallax-effect-beryl.vercel.app/ (desktop only - in progress) HTML - CSS - JS
+- 🧑‍💻 https://farros-esport.vercel.app/ (desktop only - site vitrine uniquement) HTML - CSS
+- 📱 https://telephone-app.vercel.app/#/clavier (mobile only) VUEJS
 
 - Portfolios :
-- V1 💩 https://portfolio-iota-flax-41.vercel.app/
-- V2 🚧 https://portfolio-gabriel-dautreppe.vercel.app/ (mobile only - work in progress)
+- V1 💩 https://portfolio-iota-flax-41.vercel.app/ HTML - CSS - JS
+- V2 🚧 https://portfolio-gabriel-dautreppe.vercel.app/ (mobile only - work in progress) HTML - CSS
