@@ -1,4 +1,12 @@
-# Bonjour et sois le bienvenu 👋 Je suis Gabriel Dautreppe 🧑‍💻
+<div>
+
+
+  
+  # Bonjour et sois le bienvenu 👋 Je suis Gabriel Dautreppe 🧑‍💻
+
+  ---
+  
+</div>
 
 - 🔭 Je suis actuellement étudiant en fin de 2ème année Coding et Digital Innovation.
 - 🌱 Je suis actuellement en train d'apprendre la vie (et le code).
