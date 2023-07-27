@@ -12,6 +12,12 @@
 - 🌱 Je suis actuellement en train d'apprendre la vie (et le code).
 - 💚 Je me passionne également pour la musique et le sport.
 
+  ## - ⚗️ Technologies sur lesquelles je travaille en ce moment
+  <div style="display:flex;">
+    <img src="images/angular.png" style="width:60px; margin-right:40px;">
+    <img src="images/laravel.png" style="width:60px;">
+  </div>
+
 
 
 ## - :zap: Mes projets les plus récents
