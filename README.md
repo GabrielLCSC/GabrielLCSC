@@ -21,7 +21,7 @@
 
 
 ## - :zap: Mes projets les plus récents
-- 🧑‍💻 https://react-pokesearch.vercel.app/ ReactJs
+- 🧑‍💻 https://react-pokesearch.vercel.app/ (responsive) ReactJs
 - 📱 https://telephone-app.vercel.app/#/clavier (mobile only) VueJs
 - ✨ https://webportfolio-gabriel-dautreppe.vercel.app/ (responsive & the best <3)
 - 💚 https://parallax-effect-beryl.vercel.app/ (desktop only - in progress) HTML - CSS - JS
