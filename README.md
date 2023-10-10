@@ -8,23 +8,24 @@
   
 </div>
 
-- 🔭 Je suis actuellement étudiant en fin de 2ème année Coding et Digital Innovation.
+- 🔭 Je suis actuellement étudiant en 3ème année Coding et Digital Innovation.
 - 🌱 Je suis actuellement en train d'apprendre la vie (et le code).
 - 💚 Je me passionne également pour la musique et le sport.
 
   ## - ⚗️ Technologies sur lesquelles je travaille en ce moment
   <div style="display:flex;">
-    <img src="images/angular.png" style="width:60px; margin-right:40px;">
+    <img src="images/React-icon.svg.png" style="width:60px; margin-right:40px;">
     <img src="images/laravel.png" style="width:60px;">
   </div>
 
 
 
 ## - :zap: Mes projets les plus récents
+- 🧑‍💻 https://react-pokesearch.vercel.app/ (responsive) ReactJs
+- 📱 https://telephone-app.vercel.app/#/clavier (mobile only) VueJs
 - ✨ https://webportfolio-gabriel-dautreppe.vercel.app/ (responsive & the best <3)
 - 💚 https://parallax-effect-beryl.vercel.app/ (desktop only - in progress) HTML - CSS - JS
-- 🧑‍💻 https://farros-esport.vercel.app/ (desktop only - site vitrine uniquement) HTML - CSS
-- 📱 https://telephone-app.vercel.app/#/clavier (mobile only) VUEJS
+
 
 - Portfolios :
 - V1 💩 https://portfolio-iota-flax-41.vercel.app/ HTML - CSS - JS
