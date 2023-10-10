@@ -14,7 +14,7 @@
 
   ## - ⚗️ Technologies sur lesquelles je travaille en ce moment
   <div style="display:flex;">
-    <img src="images/angular.png" style="width:60px; margin-right:40px;">
+    <img src="images/React-icon.svg.png" style="width:60px; margin-right:40px;">
     <img src="images/laravel.png" style="width:60px;">
   </div>
 
