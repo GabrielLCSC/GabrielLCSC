@@ -12,7 +12,7 @@
 - 🌱 Je suis en train d'apprendre la vie (et le code).
 - 💚 Je me passionne également pour la musique et le sport.
 
-  ## - ⚗️ Technologies sur lesquelles je travaille en ce moment
+## - ⚗️ Technologies sur lesquelles je travaille en ce moment
   <div style="display:flex;">
     <img src="images/storyblok.webp" style="height:100px; margin-right:40px;">
     <img src="images/nextjs.jpg" style="height:100px;">
