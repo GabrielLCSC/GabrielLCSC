@@ -8,29 +8,25 @@
   
 </div>
 
-- 🔭 Je suis actuellement étudiant en 3ème année Coding et Digital Innovation.
-- 🌱 Je suis actuellement en train d'apprendre la vie (et le code).
+- 🔭 Je suis actuellement développeur web chez OOEO, et étudiant en 3ème année en Coding et Digital Innovation à l'IIM.
+- 🌱 Je suis en train d'apprendre la vie (et le code).
 - 💚 Je me passionne également pour la musique et le sport.
 
   ## - ⚗️ Technologies sur lesquelles je travaille en ce moment
   <div style="display:flex;">
-    <img src="images/React-icon.svg.png" style="width:60px; margin-right:40px;">
-    <img src="images/laravel.png" style="width:60px;">
+    <img src="images/storyblok.webp" style="height:100px; margin-right:40px;">
+    <img src="images/nextjs.jpg" style="height:100px;">
   </div>
 
 
 
 ## - :zap: Mes projets les plus récents
-- 🧑‍💻 https://react-pokesearch.vercel.app/ (responsive) ReactJs
-- 📱 https://telephone-app.vercel.app/#/clavier (mobile only) VueJs
-- ✨ https://webportfolio-gabriel-dautreppe.vercel.app/ (responsive & the best <3)
-- 💚 https://parallax-effect-beryl.vercel.app/ (desktop only - in progress) HTML - CSS - JS
+- 🧑‍💻 https://ooeo.fr/
+- 📱 https://amaclio.com/
+- 💚 https://unlockm.fr/
 
-
-- Portfolios :
-- V1 💩 https://portfolio-iota-flax-41.vercel.app/ HTML - CSS - JS
-- V2 🚧 https://portfolio-gabriel-dautreppe.vercel.app/ (mobile only - work in progress) HTML - CSS
-- V3 ✨ https://webportfolio-gabriel-dautreppe.vercel.app/ (responsive & the best <3)
+## - :zap: Portoflio
+- ✨ https://webportfolio-gabriel-dautreppe.vercel.app/ (ancien)
 
   <div>
 
