@@ -8,7 +8,7 @@
   
 </div>
 
-- 🔭 Je suis actuellement développeur web chez OOEO, et étudiant en 3ème année en Coding et Digital Innovation à l'IIM.
+- 🔭 Je suis actuellement développeur web chez Cyberterre, et étudiant en ème année en Master 2 Ingénierie Web et Mobile à l'IIM.
 - 🌱 Je suis en train d'apprendre la vie (et le code).
 - 💚 Je me passionne également pour la musique et le sport.
 
@@ -20,13 +20,10 @@
 
 
 
-## - :zap: Mes projets les plus récents
-- 🧑‍💻 https://ooeo.fr/
-- 📱 https://amaclio.com/
+## - :zap: Les projets auxquels j'ai contribué
+- 🧑‍💻 https://www.routard.com/
+- 📱 https://ooeo.fr/
 - 💚 https://unlockm.fr/
-
-## - :zap: Portoflio
-- ✨ https://webportfolio-gabriel-dautreppe.vercel.app/ (ancien)
 
   <div>
 
