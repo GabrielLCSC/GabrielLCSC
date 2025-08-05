@@ -2,7 +2,7 @@
 
 
   
-  # Bonjour et sois le bienvenu 👋 Je suis Gabriel Dautreppe 🧑‍💻
+  # Bonjour et sois le bienvenu 👋
 
   ---
   
