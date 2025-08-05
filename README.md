@@ -15,7 +15,7 @@
 ## - ⚗️ Technologies sur lesquelles je travaille en ce moment
   <div style="display:flex;">
     <img src="images/storyblok.webp" style="height:100px; margin-right:40px;">
-    <img src="images/nextjs.jpg" style="height:100px;">
+    <img src="images/image.png" style="height:100px;">
   </div>
 
 
