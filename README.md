@@ -8,7 +8,7 @@
   
 </div>
 
-- 🔭 Je suis actuellement développeur web chez Cyberterre, et étudiant en ème année en Master 2 Ingénierie Web et Mobile à l'IIM.
+- 🔭 Je suis actuellement développeur web chez Cyberterre, et étudiant en ème année en Master II Ingénierie Web et Mobile à l'IIM.
 - 🌱 Je suis en train d'apprendre la vie (et le code).
 - 💚 Je me passionne également pour la musique et le sport.
 
@@ -18,7 +18,8 @@
     <img src="images/image.png" style="height:100px;">
   </div>
 
-
+## - 👨‍💻 Mon portfolio
+https://gabriel-dautreppe.vercel.app/
 
 ## - :zap: Les projets auxquels j'ai contribué
 - 🧑‍💻 https://www.routard.com/
