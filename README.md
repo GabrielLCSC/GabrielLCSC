@@ -13,7 +13,9 @@
 
 ## 👾 Qui suis-je ?
 
-Développeur web chez **Cyberterre**, en fin de Master II **Ingénierie Web & Mobile** à l'IIM. Passionné par le code, la musique et le sport — dans cet ordre ou un autre selon les jours.
+Développeur web chez **Cyberterre**, en fin de Master II **Ingénierie Web & Mobile** à l'IIM. 
+
+Passionné par le code, la musique et le sport — dans cet ordre ou un autre selon les jours.
 
 > *"Je suis en train d'apprendre la vie (et le code)."*
 
@@ -47,6 +49,3 @@ Développeur web chez **Cyberterre**, en fin de Master II **Ingénierie Web & Mo
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabriel-dautreppe&style=flat-square&color=brightgreen" alt="profile views"/>
-</div>
