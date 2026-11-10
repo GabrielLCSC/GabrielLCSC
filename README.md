@@ -3,9 +3,8 @@
 <img src="assets/header.svg" alt="Ciel animé de Paris selon l'heure" width="100%" />
 
 # Gabriel Dautreppe
-### Développeur Web · Étudiant Master II Ingénierie Web & Mobile · IIM
+### Développeur Web · Software Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoWidth=20)](https://gabriel-dautreppe.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dautreppe-iim/)
 [![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.dautreppe@gmail.com)
 
@@ -23,11 +22,9 @@
 
 ## 👾 Qui suis-je ?
 
-Développeur web chez **Cyberterre**, en fin de Master II **Ingénierie Web & Mobile** à l'IIM.
+Développeur web Full-Stack chez **Cyberterre** et **OOEO Agency**.
 
 Passionné par le code, la musique et le sport — dans cet ordre ou un autre selon les jours.
-
-> *"Je suis en train d'apprendre la vie (et le code)."*
 
 ---
 
