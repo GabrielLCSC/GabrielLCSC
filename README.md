@@ -22,7 +22,7 @@
 
 ## 👾 Qui suis-je ?
 
-Développeur web Full-Stack chez **Hachette Livre** et **OOEO Agency**.
+Développeur web Full-Stack chez **Hachette Livre** et **OOEO Agency**, je me lance maintenant dans la conception d'un SaaS pour le moment... secret.
 
 Passionné par le code, la musique et le sport — dans cet ordre ou un autre selon les jours.
 
@@ -32,6 +32,7 @@ Passionné par le code, la musique et le sport — dans cet ordre ou un autre se
 
 | Projet | Description |
 |--------|-------------|
+| 🧑‍💻 [Mon portfolio](https://www.gabrieldautreppe.com) | Mon portfolio tout neuf  |
 | 🧭 [Le Routard](https://www.routard.com/) | Guide de voyage référence en France |
 | 📱 [Ooeo](https://ooeo.fr/) | Site d'agence web |
 | 💚 [UnlockM](https://unlockm.fr/) | Plateforme web |
@@ -53,6 +54,5 @@ Passionné par le code, la musique et le sport — dans cet ordre ou un autre se
 
 - 💼 **LinkedIn** → [gabriel-dautreppe-iim](https://www.linkedin.com/in/gabriel-dautreppe-iim/)
 - 📧 **Perso** → gabriel.dautreppe@gmail.com
-- 🎓 **École** → gabriel.dautreppe@edu.devinci.fr
 
 ---
