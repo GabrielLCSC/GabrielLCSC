@@ -27,7 +27,9 @@ jobs:
 
       - name: Commit the header when the sky changes
         run: |
-          git add assets/header.svg
+          ts=$(date +%s)
+          perl -i -pe 's{src="assets/header\.svg(?:\?[^"]*)?"}{src="assets/header.svg?t='"$ts"'"}' README.md
+          git add assets/header.svg README.md
           if git diff --staged --quiet; then
             echo "Header unchanged"
             exit 0
