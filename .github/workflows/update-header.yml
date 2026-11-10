@@ -1,0 +1,38 @@
+name: Update time-of-day header
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: time-of-day-header
+  cancel-in-progress: true
+
+jobs:
+  header:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Draw the Paris header for the current time
+        run: node scripts/update-header.mjs
+
+      - name: Commit the header when the sky changes
+        run: |
+          git add assets/header.svg
+          if git diff --staged --quiet; then
+            echo "Header unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update time-of-day header"
+          git push
