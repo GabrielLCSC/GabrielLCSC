@@ -22,7 +22,7 @@
 
 ## 👾 Qui suis-je ?
 
-Développeur web Full-Stack chez **Cyberterre** et **OOEO Agency**.
+Développeur web Full-Stack chez **Hachette Livre** et **OOEO Agency**.
 
 Passionné par le code, la musique et le sport — dans cet ordre ou un autre selon les jours.
 
