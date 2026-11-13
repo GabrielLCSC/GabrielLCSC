@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg?t=1794546440" alt="Ciel animé de Paris selon l'heure" width="100%" />
+<img src="assets/header.svg?t=1794578194" alt="Ciel animé de Paris selon l'heure" width="100%" />
 
 # Gabriel Dautreppe
 ### Développeur Web · Software Engineer
