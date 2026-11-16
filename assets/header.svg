@@ -100,8 +100,8 @@
       </circle><circle cx="202.3" cy="58.0" r="0.71" fill="#F8FAFC">
         <animate attributeName="opacity" values="0.25;1;0.25" dur="2.9s" repeatCount="indefinite"/>
       </circle></g>
-  <g transform="translate(241.9 142.0)">
-    <animateTransform attributeName="transform" type="translate" values="241.9 142.0; 241.9 136.0; 241.9 142.0" dur="6s" repeatCount="indefinite"/>
+  <g transform="translate(686.3 72.9)">
+    <animateTransform attributeName="transform" type="translate" values="686.3 72.9; 686.3 66.9; 686.3 72.9" dur="6s" repeatCount="indefinite"/>
     <circle r="72" fill="url(#glow)"/>
     
     <circle r="26" fill="#F7F3E8"/>
@@ -156,6 +156,6 @@
   </g>
   <g transform="translate(48 242)">
     <rect width="199" height="36" rx="18" fill="#0B1220" opacity="0.42"/>
-    <text x="18" y="24" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">Paris · nuit · 21 h</text>
+    <text x="18" y="24" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">Paris · nuit · 01 h</text>
   </g>
 </svg>
